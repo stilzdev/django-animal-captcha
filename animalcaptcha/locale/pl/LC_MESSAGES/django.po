@@ -1,0 +1,64 @@
+# Polish translation for django-animal-captcha.
+# Copyright (C) Sławomir Zborowski
+# This file is distributed under the same license as the django-animal-captcha package.
+# Sławomir Zborowski <slawomir.zborowski@hotmail.com>, 2013.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-17 23:14+0200\n"
+"PO-Revision-Date: 2013-08-17 23:00+0200\n"
+"Last-Translator: Sławomir Zborowski <slawomir.zborowski@hotmail.com>\n"
+"Language-Team: -\n"
+"Language: Polish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2)\n"
+
+#: fields.py:56 fields.py:72
+msgid "Invalid animal captcha!"
+msgstr "Niepoprawna wartość captcha!"
+
+#: views.py:99
+msgid "What animal do you see on the left side?"
+msgstr "Jakie zwierze znajduje się po lewej stronie?"
+
+#: views.py:101
+msgid "What animal do you see on the right side?"
+msgstr "Jakie zwierze znajduje się po prawej stronie?"
+
+#: conf/settings.py:15
+msgid "cat"
+msgstr "kot"
+
+#: conf/settings.py:16
+msgid "dog"
+msgstr "pies"
+
+#: conf/settings.py:17
+msgid "horse"
+msgstr "koń"
+
+#: conf/settings.py:18
+msgid "frog"
+msgstr "żaba"
+
+#: conf/settings.py:19
+msgid "lion"
+msgstr "lew"
+
+#: conf/settings.py:20
+msgid "tiger"
+msgstr "tygrys"
+
+#: conf/settings.py:21
+msgid "fish"
+msgstr "ryba"
+
+#: conf/settings.py:22
+msgid "snake"
+msgstr "wąż"
